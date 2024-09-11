@@ -16,4 +16,7 @@ Estudante de Ciência da computação pelo [Instituto Mauá de Tecnologia](https
 
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 )
-
+![HTML]()
+![CSS]()
+![JavaScript]()
+![BootsTrap]()
