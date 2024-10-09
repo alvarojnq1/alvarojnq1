@@ -22,4 +22,5 @@ Estudante de Ciência da computação pelo [Instituto Mauá de Tecnologia](https
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS]([https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/node/v/:packageName
+))
