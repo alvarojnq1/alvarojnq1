@@ -32,7 +32,7 @@ Estudante de Ciência da Computação pelo [Instituto Mauá de Tecnologia](https
 
 <div>
   <a href="https://github.com/alvarojnq1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarojnq1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarojnq1&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   </a>
   <a href="https://github.com/alvarojnq1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarojnq1&layout=compact&langs_count=16&theme=dark"/>
@@ -41,6 +41,7 @@ Estudante de Ciência da Computação pelo [Instituto Mauá de Tecnologia](https
     <img height="170em" src="https://streak-stats.demolab.com/?user=alvarojnq1&theme=dark"/>
   </a>
 </div>
+
 
 ---
 
