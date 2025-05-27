@@ -1,5 +1,7 @@
 ### Olá! Me chamo Álvaro Junqueira 👋
-Estudante de Ciência da Computação pelo [Instituto Mauá de Tecnologia](https://maua.br), apaixonado por tecnologia e em facilitar o cotidiano através da programação.
+Estudante de Ciência da Computação | Instituto Mauá de Tecnologia
+
+Olá! Sou Álvaro Junqueira, estudante de Ciência da Computação pelo [Instituto Mauá de Tecnologia](https://maua.br). Apaixonado por tecnologia, meu objetivo é me tornar um Desenvolvedor Full Stack especializado em Next.js e React no front-end, integrados a back-ends robustos com Node.js e Express, criando soluções modernas, escaláveis e centradas no usuário.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-junqueira-16b58b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvarojnq)
