@@ -50,7 +50,8 @@ Aqui estão alguns dos projetos em que trabalhei e que demonstram minhas habilid
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Cloud & Autenticação:**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ---
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+---
 
 <div>
   <a href="https://github.com/alvarojnq1">
